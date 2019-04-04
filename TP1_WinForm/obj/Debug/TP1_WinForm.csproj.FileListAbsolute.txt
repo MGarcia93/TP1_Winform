@@ -1,0 +1,15 @@
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\bin\Debug\TP1_WinForm.exe.config
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\bin\Debug\TP1_WinForm.exe
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\bin\Debug\TP1_WinForm.pdb
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.csprojAssemblyReference.cache
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.FrmPrincipal.resources
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.Properties.Resources.resources
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.csproj.GenerateResource.cache
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.exe
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.pdb
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.frmListaObjeto.resources
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\bin\Debug\Clases.dll
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\bin\Debug\Clases.pdb
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.csproj.CopyComplete
+C:\Users\elrengero73\source\repos\TP1_WinForm\TP1_WinForm\obj\Debug\TP1_WinForm.frmListaPersona.resources

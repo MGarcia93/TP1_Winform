@@ -1,0 +1,6 @@
+C:\Users\elrengero73\source\repos\TP1_WinForm\Clases\bin\Debug\Clases.dll
+C:\Users\elrengero73\source\repos\TP1_WinForm\Clases\bin\Debug\Clases.pdb
+C:\Users\elrengero73\source\repos\TP1_WinForm\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\elrengero73\source\repos\TP1_WinForm\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\elrengero73\source\repos\TP1_WinForm\Clases\obj\Debug\Clases.dll
+C:\Users\elrengero73\source\repos\TP1_WinForm\Clases\obj\Debug\Clases.pdb
